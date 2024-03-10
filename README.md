@@ -50,3 +50,7 @@ Overall, the Face Detection project serves as an educational and practical examp
 ## Author
 
 - [Krishan Mohan Mandal](https://github.com/KrishanMohanDev)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
