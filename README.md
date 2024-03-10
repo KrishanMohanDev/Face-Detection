@@ -39,6 +39,10 @@ Overall, the Face Detection project serves as an educational and practical examp
 
 2. **Exit the Script**: Press the 'a' key to exit the script.
 
+## Example Screenshot
+
+![Face Detection Example](output.png)
+
 ## Notes
 
 - Make sure to have the `haarcascade_frontalface_default.xml` file in the same directory as the `Face_Detection.ipynb` notebook.
